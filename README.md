@@ -1,4 +1,3 @@
-# ML Project
 
 Missing Value Estimation with KNN classification
 
