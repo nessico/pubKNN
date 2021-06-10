@@ -1,7 +1,7 @@
 
-Missing Value Estimation with KNN classification, Please read the report first to gain a technical understanding
+# Missing Value Estimation with KNN classification, Please read the report first to gain a technical understanding
 
-# Team Members
+Team Members
 * Dong Jun Kim
 * Abele Amsalu
 * SangWoo Shim
